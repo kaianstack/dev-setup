@@ -5,14 +5,25 @@ I am using Windows 10.
 
 # GitHub
 In GitHub to keep your email private, go to https://github.com/settings/emails and turn on "Keep my email addresses private". 
+
 *After that your every git action to GitHub repos with your email will be hided by a GitHub email.*
+
+Copy your private email address that looks like this 12345678+username@users.noreply.github.com
+to use it in git config.
 
 # Git
 1. Install Git
 2. Make Sure you have your name and email in git config.
+
 Check it like that in cmd:
+
 `git config --global user.name`
+
 `git config --global user.email`
+
 You can change it like that:
+
 `git config --global user.name "Your Name"`
-`git config --global user.email "your_email_linked_to_your_github_account"`
+
+`git config --global user.email "your_email_linked_to_your_github_account_or_private_one"`
+
