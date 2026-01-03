@@ -1,5 +1,5 @@
 I am using Windows 10.
-
+Also i think you need to install NodeJS.
 
 # GitHub
 In GitHub to keep your email private, go to https://github.com/settings/emails and turn on "Keep my email addresses private". 
