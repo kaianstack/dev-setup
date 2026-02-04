@@ -13,7 +13,7 @@ to use it in git config.
 Sign on in VS Code with the GitHub account.
 
 
-I am using VS Code built-in Git controller (Ctrl+Shift+G G) to do most of git actions.
+I am using VS Code built-in Git controller (Ctrl+Shift+G) to do most of git actions.
 
 But in setting up you need to do some actions in cmd.
 
