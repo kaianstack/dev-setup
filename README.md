@@ -1,6 +1,7 @@
 I am using Windows 10.(Pro is required to local NixOS test stand to get access to Hyper-V to Nested virtualisation)
 From Home version you can update to Pro using https://github.com/massgravel/Microsoft-Activation-Scripts.()
 
+I think you need to install NodeJS.
 
 # GitHub
 In GitHub to keep your email private, go to https://github.com/settings/emails and turn on "Keep my email addresses private". 
@@ -14,7 +15,7 @@ to use it in git config.
 Sign on in VS Code with the GitHub account.
 
 
-I am using VS Code built-in Git controller (Ctrl+Shift+G G) to do most of git actions.
+I am using VS Code built-in Git controller (Ctrl+Shift+G) to do most of git actions.
 
 
 
