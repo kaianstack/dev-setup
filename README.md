@@ -1,4 +1,5 @@
-I am using Windows 10.
+I am using Windows 10.(Pro is required to local NixOS test stand to get access to Hyper-V to Nested virtualisation)
+From Home version you can update to Pro using https://github.com/massgravel/Microsoft-Activation-Scripts.()
 
 
 # GitHub
@@ -15,9 +16,15 @@ Sign on in VS Code with the GitHub account.
 
 I am using VS Code built-in Git controller (Ctrl+Shift+G G) to do most of git actions.
 
-But in setting up you need to do some actions in cmd.
 
 
+## Claude Code CLI
+For console, add it to ctrl shift p Open Keyboard Shortcuts (JSON)
+```json
+    { "key": "ctrl+g", "command": "-workbench.action.gotoLine", "when": "terminalFocus" },
+    { "key": "ctrl+g", "command": "-workbench.action.terminal.goToRecentDirectory"}
+```
+and ask Claude Code to setup $EDITOR env variable to edit file in current vscode window 
 
 # Git
 1. Install Git
